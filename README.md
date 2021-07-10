@@ -1,1 +1,1 @@
-# Python
+# Python project test directory
